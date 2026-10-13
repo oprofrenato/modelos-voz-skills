@@ -1,0 +1,101 @@
+{
+ "small": {
+  "origem": "Systran/faster-whisper-small",
+  "model_bin_sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671",
+  "model_bin_bytes": 483546902,
+  "partes": [
+   {
+    "arquivo": "model.bin.parte-00",
+    "sha256": "16ecb397981a8934c67253fbe1e46afef7c163d9d6d1950ebb15ae284738a635",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-01",
+    "sha256": "c5ef7e1d4f9743d5be72904c47d965fd30189f7dc61516558890451235ff3196",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-02",
+    "sha256": "10b64c3c5d575897f0021ee7d7add53f9e535ce750d36f291c9d909ed407befa",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-03",
+    "sha256": "05fa7d7ad07dfdb549e2b7883b733f0732af97a8896e5fb3428565b3961da845",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-04",
+    "sha256": "d8ba2fc1d2cc02f03173667331c19adc4ac6232182c42b5e722c56cc00391cbc",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-05",
+    "sha256": "3daf983aaaa71817fad13f704cf4141e181ac7dbe2811632e765741cb61dfe9f",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-06",
+    "sha256": "c58aa3f022e40117731ddc94374974f42215387647c8172b5617467f9bffcd08",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-07",
+    "sha256": "2c17dd81e11c120d5238fb68b2db9c6fc2921ae537282990ccf05fdae1789fe7",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-08",
+    "sha256": "c915683bffb07fe0c85a83b9d778390a9e8ee1fcf8d273671ebc4ac7755cecbd",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-09",
+    "sha256": "76430b1780ad8d9974f411643a61168a4527989e08983ba41cec7c444e6732f3",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-10",
+    "sha256": "0a566eb947e747fc9588bcfab7485f825627ebfe3b0e842bcbf1aa3c7d313d3f",
+    "bytes": 11687702
+   }
+  ],
+  "outros": {
+   "config.json": "b55496ac7940a7ae47d2c01eab40edfd8701feec1229d9cce3b40014383fb828",
+   "tokenizer.json": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab",
+   "vocabulary.txt": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+  }
+ },
+ "base": {
+  "origem": "Systran/faster-whisper-base",
+  "model_bin_sha256": "d01c3014881c9c6f3133c182f3d2887eb6ca1c789a7538c5c007196857a0a6a9",
+  "model_bin_bytes": 145217532,
+  "partes": [
+   {
+    "arquivo": "model.bin.parte-00",
+    "sha256": "78e0ec17f4ab3f23e4c4b07bec9fec0eeafa9b01db286db58caf6675be1d8d74",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-01",
+    "sha256": "73f8865135a2cbec9594004d070fa04f58f0e502f3e136104e05e9ccb8660b8b",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-02",
+    "sha256": "47ca9b269e50a3791ff6cee6990a6719d242f0a8b207e58d7147b995402182c1",
+    "bytes": 47185920
+   },
+   {
+    "arquivo": "model.bin.parte-03",
+    "sha256": "8fcf7db8f4b3a8ea5d584f65f52f168429d138f9a83fe6c0aa31b6eb17df282b",
+    "bytes": 3659772
+   }
+  ],
+  "outros": {
+   "config.json": "56a6d8110d311f19c8f0471e562832c7527f146b567275bfca59fcf7c184da9a",
+   "tokenizer.json": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab",
+   "vocabulary.txt": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+  }
+ }
+}
